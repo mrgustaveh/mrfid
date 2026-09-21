@@ -10,3 +10,7 @@
 - RFID-RC522
 
 <img src="./assets/RFID-RC522.png" />
+
+### Setup
+
+<img src="./assets/setup.jpeg" />
