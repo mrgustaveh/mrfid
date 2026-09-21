@@ -13,4 +13,4 @@
 
 ### Setup
 
-<img src="./assets/setup.jpeg" />
+<img src="./assets/setup.png" />
